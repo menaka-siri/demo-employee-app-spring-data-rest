@@ -1,2 +1,2 @@
-# demo-employee-app-jpa
-demo-employee-app
+# demo-employee-app-spring-data-rest
+demo-employee-app-spring-data-rest
